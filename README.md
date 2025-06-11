@@ -30,7 +30,7 @@
 ## 🎥 Demo Video
 
 📺 Watch our 2-minute demo:  
-👉 https://youtu.be/your-video-id *(replace with actual)*
+👉 [DEMO](https://youtu.be/xHJgEIJxKGM)
 
 ---
 
